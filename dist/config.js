@@ -2,8 +2,8 @@
 var RM = window.RM = window.RM || {};
 
 window.RM.config = {
-  root: "/stillhiring/2020.git/",
+  root: "/",
   pushState: true
 }
 
-window.chunkURL = "/stillhiring/2020.git/dist/";
+window.chunkURL = "/dist/";
