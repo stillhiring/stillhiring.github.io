@@ -16,3 +16,10 @@
   src: url("../fonts/5e76a265c3bf1c4be7704565_n1.woff") format('woff')
 }
 
+
+@font-face {
+  font-family: 'gzjdnew';
+  font-style:  normal;
+  font-weight: 100;
+  src: url("../fonts/NeueHaasGrotDisp-55Roman.woff") format('woff')
+}
